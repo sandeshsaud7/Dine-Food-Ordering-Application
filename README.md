@@ -67,34 +67,24 @@ Currently in development.
 Developed as an academic project
 
 Dine — Food Ordering Application
-📱 Hi-Fi Designs
+## 📝 Lo-Fi Wireframes
 
-The following screens showcase the high-fidelity UI/UX design of the Dine food ordering application.
+These low-fidelity wireframes show the initial structure and layout of the Dine food ordering application before the high-fidelity design stage.
 
-Welcome
+### Welcome
+![Dine Lo-Fi Welcome](screenshots/lofi/01-welcome.png)
 
-"Dine Welcome Screen" (screenshots/hifi/01-welcome.png)
+### Home
+![Dine Lo-Fi Home](screenshots/lofi/03-home.png)
 
-Home
+### Restaurant Menu
+![Dine Lo-Fi Restaurant Menu](screenshots/lofi/04-restaurant-menu.png)
 
-"Dine Home Screen" (screenshots/hifi/03-home.png)
+### Cart
+![Dine Lo-Fi Cart](screenshots/lofi/05-cart.png)
 
-Restaurant Menu
+### Checkout
+![Dine Lo-Fi Checkout](screenshots/lofi/06-checkout.png)
 
-"Dine Restaurant Menu" (screenshots/hifi/04-restaurant-menu.png)
-
-Cart
-
-"Dine Cart Screen" (screenshots/hifi/05-cart.png)
-
-Checkout
-
-"Dine Checkout Screen" (screenshots/hifi/06-checkout.png)
-
-Order Confirmation
-
-"Dine Order Confirmation Screen" (screenshots/hifi/07-order-confirmation.png)
-
-📝 Lo-Fi Wireframes
-
-The Lo-Fi wireframes show the initial structure and layout planned before the high-fidelity designs.
+### Order Confirmation
+![Dine Lo-Fi Order Confirmation](screenshots/lofi/07-order-confirmation.png)
