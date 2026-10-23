@@ -112,6 +112,7 @@ These low-fidelity wireframes show the initial structure and layout of the Dine 
 
 ### Order Confirmation
 ![Dine Lo-Fi Order Confirmation](screenshots/lofi/07-order-confirmation.png)
+
 Project Status
 
 The UI/UX design phase of Dine is complete, including low-fidelity wireframes and high-fidelity screens. The interactive Figma prototype is available through the link above.
