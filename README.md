@@ -31,7 +31,11 @@ Design Process
 
 Idea → Lo-Fi Wireframe → Hi-Fi Prototype → Flutter Development
 
-Figma Prototype: [Add your Figma link here]
+Figma Prototype: [## 🎨 Figma Design
+
+Explore the Dine UI/UX designs and interactive prototype:
+
+[**View Dine Figma Prototype**]([PASTE_YOUR_FIGMA_LINK_HERE](https://www.figma.com/design/PDrGh6RWxP3MxdfDgqejLH/Dine-Food-Ordering-App?node-id=0-1&m=dev&t=yGk9FkpmVQ9MEG0C-1))]
 
 🛠️ Technologies Used
 
