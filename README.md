@@ -67,3 +67,34 @@ Currently in development.
 Developed as an academic project
 
 Dine — Food Ordering Application
+📱 Hi-Fi Designs
+
+The following screens showcase the high-fidelity UI/UX design of the Dine food ordering application.
+
+Welcome
+
+"Dine Welcome Screen" (screenshots/hifi/01-welcome.png)
+
+Home
+
+"Dine Home Screen" (screenshots/hifi/03-home.png)
+
+Restaurant Menu
+
+"Dine Restaurant Menu" (screenshots/hifi/04-restaurant-menu.png)
+
+Cart
+
+"Dine Cart Screen" (screenshots/hifi/05-cart.png)
+
+Checkout
+
+"Dine Checkout Screen" (screenshots/hifi/06-checkout.png)
+
+Order Confirmation
+
+"Dine Order Confirmation Screen" (screenshots/hifi/07-order-confirmation.png)
+
+📝 Lo-Fi Wireframes
+
+The Lo-Fi wireframes show the initial structure and layout planned before the high-fidelity designs.
